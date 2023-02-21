@@ -942,11 +942,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\My Learning\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\BulkyBookWeb\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
       "projectName": "BulkyBookWeb",
-      "projectPath": "C:\\Users\\HP\\Desktop\\My Learning\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+      "projectPath": "C:\\Users\\HP\\Source\\Repos\\BulkyBookWeb\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\My Learning\\BulkyBook\\BulkyBookWeb\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Source\\Repos\\BulkyBookWeb\\BulkyBook\\BulkyBookWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
